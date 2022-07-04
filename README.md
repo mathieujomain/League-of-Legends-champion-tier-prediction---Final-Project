@@ -48,6 +48,8 @@ Metadata:
 - Feature selection
 - Hyper parameter tuning
 - Application of models
+- Visualization of results using dashboard made in Tableau
+- Results analysis
 
 ## Deliverables
 
