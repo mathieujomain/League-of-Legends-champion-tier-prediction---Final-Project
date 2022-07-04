@@ -12,7 +12,7 @@ The challenge for this final project is to imagine a business case according to 
 
 I started by cleaning and preping the data to be ready for model fitting and application. Then performed exploratory data analysis, checked for outliers, and encoded. 
 
-After that I've decided to use Supervised/Unsupervised machine learning and selected X number of model to try.
+After that I've decided to use Supervised machine learning because I defined one of the column as a goal: Tier.
 I've created a pipeline for hyperparameters tuning and model selection.
 
 ## Business case
