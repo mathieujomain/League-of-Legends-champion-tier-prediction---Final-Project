@@ -27,17 +27,17 @@ The dataset is available online on kaggle: (https://www.kaggle.com/datasets/vivo
 The data is composed of different csv files containing different indicators on the champions. Each csv file corresponds to a different patch.
 
 Metadata:
-Name : Name of the champion
-Class : Fighter, Assassin, Mage, Marksman, Support or Tank
-Role : Top, Mid, ADC, Support or Jungle
-Tier : God, S, A, B, C or D
-Score : Overall score of the champion
-Trend : Trend of the score
-Win % : Win rate of the champion
-Role % : Role rate played with the champion
-Pick % : Pick rate of the champion
-Ban % : Ban rate of the champion
-KDA : (Kill+Death)/Assist ratio of the champion
+- Name : Name of the champion
+- Class : Fighter, Assassin, Mage, Marksman, Support or Tank
+- Role : Top, Mid, ADC, Support or Jungle
+- Tier : God, S, A, B, C or D
+- Score : Overall score of the champion
+- Trend : Trend of the score
+- Win % : Win rate of the champion
+- Role % : Role rate played with the champion
+- Pick % : Pick rate of the champion
+- Ban % : Ban rate of the champion
+- KDA : (Kill+Death)/Assist ratio of the champion
 
 ## Plan
 
